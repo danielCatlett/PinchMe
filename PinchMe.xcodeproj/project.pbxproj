@@ -54,10 +54,10 @@
 		3F09C76B1EC3C21D004CE87B /* PinchMe */ = {
 			isa = PBXGroup;
 			children = (
-				3F09C76C1EC3C21D004CE87B /* AppDelegate.swift */,
-				3F09C76E1EC3C21D004CE87B /* ViewController.swift */,
 				3F09C7701EC3C21D004CE87B /* Main.storyboard */,
+				3F09C76E1EC3C21D004CE87B /* ViewController.swift */,
 				3F09C7731EC3C21D004CE87B /* Assets.xcassets */,
+				3F09C76C1EC3C21D004CE87B /* AppDelegate.swift */,
 				3F09C7751EC3C21D004CE87B /* LaunchScreen.storyboard */,
 				3F09C7781EC3C21D004CE87B /* Info.plist */,
 			);
